@@ -1,6 +1,6 @@
 {
   "name": "plr",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "polymer build tool",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
